@@ -45,7 +45,7 @@ With 7 years of experience in Petroleum Engineering, I’m now exploring the pot
 ### 📫 Let’s Connect
 
 - **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **Email**: [Your Email](mailto:ashwinvel2000@gmail.com)
 
 ---
 
