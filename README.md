@@ -1,7 +1,3 @@
-Here’s a sample README that highlights your background, interests, and current pursuits:
-
----
-
 # Hi there, I'm Ashwin Vel 👋
 
 🎓 **Petroleum Engineer | Data Science Enthusiast**  
@@ -44,7 +40,7 @@ With 7 years of experience in Petroleum Engineering, I’m now exploring the pot
 
 ### 📫 Let’s Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **LinkedIn**: [Your LinkedIn Profile] (https://www.linkedin.com/in/ashwinvel2000/)
 - **Email**: [Your Email](mailto:ashwinvel2000@gmail.com)
 
 ---
@@ -55,10 +51,3 @@ With 7 years of experience in Petroleum Engineering, I’m now exploring the pot
 - Exploring applications of **machine learning in sustainable energy**.
 - **Networking** with professionals and researchers in both the energy and tech spaces.
 
----
-
-Thanks for stopping by! Feel free to reach out for collaboration, or just to chat about data science, engineering, and career transitions. 😊
-
---- 
-
-This README showcases your skills, background, and active interests while creating a personal connection with visitors. Let me know if there’s anything you’d like to add or adjust!
